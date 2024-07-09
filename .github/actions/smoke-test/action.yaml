@@ -11,6 +11,10 @@ runs:
       id: checkout_release
       uses: actions/checkout@v3
 
+    - name: Install jq
+      id: install_jq
+      run: apt update && apt install -y jq
+
     - name: Build template
       id: build_template
       shell: bash
