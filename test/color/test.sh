@@ -5,7 +5,7 @@ source test-utils.sh
 # Template specific tests
 check "distro" lsb_release -c
 check "color" [ $(cat /tmp/color.txt | grep red) ]
-check "act" gh extension install https://github.com/nektos/gh-act
+check "github-cli" gh --version
 
 # Report result
 reportResults
