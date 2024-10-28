@@ -26,6 +26,9 @@
             "default": "red"
         }
     },
+    "optionalPaths": [
+        "foo.md"
+    ],
     "platforms": [
         "Any"
     ]
