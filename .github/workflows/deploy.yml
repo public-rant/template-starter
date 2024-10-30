@@ -17,3 +17,4 @@ jobs:
       with:
         path: storybook-static # change to your build folder
         checkout: false
+        install_command: npm i
