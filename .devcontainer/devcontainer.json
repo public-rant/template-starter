@@ -2,7 +2,13 @@
 {
 	"image": "mcr.microsoft.com/devcontainers/javascript-node:1-18-bullseye",
 	"features": {
-		"ghcr.io/devcontainers/features/docker-in-docker:2": {}
+		"ghcr.io/devcontainers-extra/features/rclone": {},
+		"ghcr.io/devcontainers/features/docker-in-docker:2": {},
+		"ghcr.io/devcontainers/features/sshd:1": {
+        	"version": "latest"
+    	},
+		"ghcr.io/devcontainers/features/desktop-lite": {},
+		"ghcr.io/devcontainers/features/python": {}
 	},
 	"customizations": {
 		"vscode": {

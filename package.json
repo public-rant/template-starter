@@ -1,0 +1,23 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/public-rant/template-starter.git",
+  "author": "Richard Anthony <public.rant@pm.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "@chromatic-com/storybook": "^1.9.0",
+    "@storybook/addon-essentials": "^8.3.6",
+    "@storybook/addon-interactions": "^8.3.6",
+    "@storybook/addon-links": "^8.3.6",
+    "@storybook/blocks": "^8.3.6",
+    "@storybook/html": "^8.3.6",
+    "@storybook/html-vite": "^8.3.6",
+    "@storybook/test": "^8.3.6",
+    "storybook": "^8.3.6"
+  },
+  "scripts": {
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
+  }
+}
