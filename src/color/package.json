@@ -1,0 +1,31 @@
+{
+  "name": "template-starter",
+  "version": "1.0.0",
+  "description": "> This repo provides a starting point and example for creating your own custom [Dev Container Templates](https://containers.dev/implementors/templates), hosted for free on GitHub Container Registry.  The example in this repository follows the [Dev Container Template distribution specification](https://containers.dev/implementors/templates-distribution/).   > > To provide feedback on the distribution spec, please leave a comment [on spec issue #71](https://github.com/devcontainers/spec/issues/71).",
+  "scripts": {
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build",
+    "chromatic": "npx chromatic --project-token=chpt_94b68e73307bfa6"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@chromatic-com/playwright": "^0.10.0",
+    "@chromatic-com/storybook": "^1.9.0",
+    "@playwright/test": "^1.48.2",
+    "@storybook/addon-essentials": "^8.3.6",
+    "@storybook/addon-interactions": "^8.3.6",
+    "@storybook/addon-links": "^8.3.6",
+    "@storybook/blocks": "^8.3.6",
+    "@storybook/html": "^8.3.6",
+    "@storybook/html-vite": "^8.3.6",
+    "@storybook/test": "^8.3.6",
+    "@types/node": "^22.8.2",
+    "chromatic": "^11.16.1",
+    "storybook": "^8.3.6"
+  },
+  "dependencies": {
+    "vite": "^5.4.10"
+  }
+}

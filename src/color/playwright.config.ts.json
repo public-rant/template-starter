@@ -1,0 +1,379 @@
+[
+{
+    "name": ".devcontainer.json",
+    "testMatch": [
+      "*.qRl4A-Q5gFHo.spec.ts"
+    ]
+  },
+  {
+    "name": "API",
+    "testMatch": [
+      "*.bUs4tFftb2vT.spec.ts",
+      "*.SOXdEgMYku9_.spec.ts",
+      "*.nHl5NypywYtu.spec.ts",
+      "*.oj9RW19T_NUi.spec.ts"
+    ]
+  },
+  {
+    "name": "Add Details",
+    "testMatch": [
+      "*.maGIdJfHzmEn.spec.ts",
+      "*.O0wFvsRN83W2.spec.ts",
+      "*.YJO7I7XhKObX.spec.ts",
+      "*.1ig6ipe1wo22.spec.ts",
+      "*.LvPy0rPYOgCu.spec.ts",
+      "*.lF3N21O2F9Oz.spec.ts",
+      "*.37plGoexRVEE.spec.ts",
+      "*.ofPsmGalwmTJ.spec.ts",
+      "*.fMu9MuG0Un_C.spec.ts",
+      "*.NGI99iIeZ6qc.spec.ts",
+      "*.l5kHQjAdYo1i.spec.ts"
+    ]
+  },
+  {
+    "name": "Authentication.spec.ts",
+    "testMatch": [
+      "*.Cnroyp5Keisx.spec.ts"
+    ]
+  },
+  {
+    "name": "Backlog.student.ts",
+    "testMatch": [
+      "*.2yPbWIlzFOpX.spec.ts",
+      "*.nHl5NypywYtu.spec.ts"
+    ]
+  },
+  {
+    "name": "Certificates",
+    "testMatch": [
+      "*.sH5rw9NrSG2G.spec.ts",
+      "*.qeIs-cbGbYi_.spec.ts"
+    ]
+  },
+  {
+    "name": "Create portfolio items from completed bids",
+    "testMatch": [
+      "*.R2M7kAs8T-rI.spec.ts",
+      "*.ZOJo1-0mCZsX.spec.ts",
+      "*.Hf-57Uy1UyKw.spec.ts"
+    ]
+  },
+  {
+    "name": "Demo.spec.ts",
+    "testMatch": [
+      "*.IJgfFoNMglXW.spec.ts"
+    ]
+  },
+  {
+    "name": "Employment History",
+    "testMatch": [
+      "*.itsgIa8Y8Sh1.spec.ts",
+      "*.rH50aKXEZl4e.spec.ts",
+      "*.xZJb0e-0V-Vt.spec.ts",
+      "*.Se6D-WYGGtTM.spec.ts",
+      "*.kXnvWLxcG056.spec.ts"
+    ]
+  },
+  {
+    "name": "Gigs",
+    "testMatch": [
+      "*.bL30YZEwcU0S.spec.ts",
+      "*.8rqagU6HOBCa.spec.ts",
+      "*.oQdec7zFPxk8.spec.ts"
+    ]
+  },
+  {
+    "name": "Profiles",
+    "testMatch": [
+      "*.P_7Yzz5kKg5q.spec.ts",
+      "*.kEZ0N1VME4w0.spec.ts",
+      "*.8CBn1rKJeW22.spec.ts",
+      "*.ycfsXrJtY6Xn.spec.ts",
+      "*.UMPvoNfd9-F5.spec.ts",
+      "*.uhpP0c6QEKIg.spec.ts",
+      "*.RPHg_AjoREUt.spec.ts",
+      "*.Le_64BgxBLrS.spec.ts",
+      "*.y-1m6wUymbAt.spec.ts",
+      "*.82StD7p17zWZ.spec.ts",
+      "*.1qNgbDNbm70q.spec.ts",
+      "*.B-KNc2DsTFd9.spec.ts"
+    ]
+  },
+  {
+    "name": "SDK",
+    "testMatch": [
+      "*.XtT6-fipmxJ_.spec.ts"
+    ]
+  },
+  {
+    "name": "TutorialKit",
+    "testMatch": [
+      "*.5Xc6Qpwq4n5u.spec.ts",
+      "*.ksAHAAPz16P1.spec.ts",
+      "*.hFrHZ-KQZ79N.spec.ts",
+      "*.__vWNwrABBZn.spec.ts",
+      "*.zF5B3l1t8lB-.spec.ts"
+    ]
+  },
+  {
+    "name": "done (training data)",
+    "testMatch": [
+      "*.J7W_tPuZWp0t.spec.ts",
+      "*.0P6G4ab-fIa-.spec.ts",
+      "*.IJaG2f4FZKJc.spec.ts",
+      "*.ItQU0WyP2ilZ.spec.ts",
+      "*.lz9nkQwI9zx1.spec.ts",
+      "*.TJXstjhxmQCx.spec.ts",
+      "*.aeuQsSRhnZa1.spec.ts",
+      "*.2EsixUC5FQtM.spec.ts"
+    ]
+  },
+  {
+    "name": "infrastructure",
+    "testMatch": [
+      "*.39WcbOmxmv7V.spec.ts",
+      "*.n8zUUqd1_jyT.spec.ts",
+      "*.iNPLEq0XeiTQ.spec.ts",
+      "*.KrzxbYDxJxyN.spec.ts",
+      "*.4qvRQglbnK14.spec.ts",
+      "*.zKQmOtKUjx0c.spec.ts",
+      "*._URnGYQOPVzk.spec.ts"
+    ]
+  },
+  {
+    "name": "manager",
+    "testMatch": [
+      "*.CAZjaDr_bxd8.spec.ts",
+      "*.VZweYrXt-Gb6.spec.ts",
+      "*.LZ1UixUf9W5-.spec.ts",
+      "*.-_mYg-CW79nn.spec.ts",
+      "*.EFehnP_22DcY.spec.ts",
+      "*.JzTfUoZh6gAD.spec.ts",
+      "*._liIoUkBvO7W.spec.ts",
+      "*.HzZ-rcf0MyVA.spec.ts",
+      "*.7Dt4bJdBpAT5.spec.ts",
+      "*.BE0n9M9WfUF5.spec.ts",
+      "*.OBk9A7l_dJ4t.spec.ts",
+      "*.PXeokjsC2L69.spec.ts",
+      "*.WyyCoHqvu_Oq.spec.ts",
+      "*.mi4NVmX5e1i3.spec.ts",
+      "*.6eKHPW1hQRz0.spec.ts",
+      "*.OxLiG3zlNi66.spec.ts",
+      "*.2zjtAcdfj57H.spec.ts"
+    ]
+  },
+  {
+    "name": "opensource",
+    "testMatch": [
+      "*.uTuaeik3PmLM.spec.ts",
+      "*.8aFrS6pm7VrS.spec.ts",
+      "*.-A0TTfj4uerX.spec.ts",
+      "*.FJf3FevmkSAP.spec.ts",
+      "*.oqxt_Hx4MEOB.spec.ts"
+    ]
+  },
+  {
+    "name": "payments",
+    "testMatch": [
+      "*.KJIrR97SgweX.spec.ts",
+      "*.rnXzORpPJQPx.spec.ts",
+      "*.a9z6uDi-tLZV.spec.ts",
+      "*.3XjLfvWs70QT.spec.ts",
+      "*.nxbNwJ2j3dEM.spec.ts",
+      "*.LanMBDQgsEmS.spec.ts"
+    ]
+  },
+  {
+    "name": "production",
+    "testMatch": [
+      "*.uicU0pP-Ihlu.spec.ts",
+      "*.7CcBiXYTY99V.spec.ts"
+    ]
+  },
+  {
+    "name": "profile photo",
+    "testMatch": [
+      "*.LTlbKxCrHmn3.spec.ts",
+      "*.w8NOIvEeHc7u.spec.ts",
+      "*.d8HPdAijUcEl.spec.ts",
+      "*.kyvBrv7RS9h0.spec.ts",
+      "*.BqNf_QIzUt1K.spec.ts",
+      "*.EP_qVRHTxNHD.spec.ts",
+      "*.VbFHtYXzc4wU.spec.ts",
+      "*.drJEsrNKA3wU.spec.ts",
+      "*.OsitOzOr8Vkn.spec.ts",
+      "*.yXqcPlFs-pOd.spec.ts",
+      "*.LAKsYwrxWZKD.spec.ts",
+      "*.QDXjnRrekvwU.spec.ts",
+      "*.BHiFdBiOtxru.spec.ts",
+      "*.1S993eNAvfip.spec.ts",
+      "*.jW0qWrjlHTJE.spec.ts",
+      "*.jG96z_MTHJ7k.spec.ts",
+      "*.QYPbmI5rZPUY.spec.ts",
+      "*.a9k2VtuZQ5Ch.spec.ts",
+      "*.8gXJBWkhT0lT.spec.ts",
+      "*.sUUwjvdR8AAs.spec.ts",
+      "*.5ZweDkeNhoDV.spec.ts",
+      "*.79ctkOqnxDZi.spec.ts",
+      "*.64ZxYjIsY2LF.spec.ts",
+      "*.U6ua4zRFMaKn.spec.ts"
+    ]
+  },
+  {
+    "name": "rant.dev",
+    "testMatch": [
+      "*.WJWQg_bi85hr.spec.ts",
+      "*.7PadScqx38sM.spec.ts",
+      "*.uZehzgYLzE06.spec.ts"
+    ]
+  },
+  {
+    "name": "rant.local",
+    "testMatch": [
+      "*.i2BBZrd6PP6F.spec.ts"
+    ]
+  },
+  {
+    "name": "rantstd.io",
+    "testMatch": [
+      "*.6wyZcME-jmk0.spec.ts",
+      "*.fINAiBBPYJNN.spec.ts",
+      "*.QDkjfQM2Kmdy.spec.ts",
+      "*.ogCR-DpqrNW0.spec.ts",
+      "*.lyUWObcKvfiH.spec.ts"
+    ]
+  },
+  {
+    "name": "rantstudi.es",
+    "testMatch": [
+      "*.KjJhcsTQA92u.spec.ts",
+      "*.0W8CO8kIB3Z6.spec.ts",
+      "*.WvVgw88Mn3s9.spec.ts",
+      "*.1h0SOVGA0bK_.spec.ts",
+      "*.cRon-WffsXt5.spec.ts"
+    ]
+  },
+  {
+    "name": "snapshots.json",
+    "testMatch": [
+      "*.zJdLxzTNWKvU.spec.ts",
+      "*.CemmZ87AiE7w.spec.ts",
+      "*.CMmWm4zafIG7.spec.ts",
+      "*.VCVPJxRPpPo7.spec.ts",
+      "*.adfd2oUbiiSV.spec.ts",
+      "*.dCJnQgx_FWdu.spec.ts",
+      "*.JMkCWAPfmN70.spec.ts",
+      "*.p-062RrNRnZT.spec.ts"
+    ]
+  },
+  {
+    "name": "src/components",
+    "testMatch": [
+      "*.xZLfZqIiIbmu.spec.ts",
+      "*.PsaKrQAmwGdr.spec.ts",
+      "*.HTyJBkBvaGIm.spec.ts",
+      "*.-ys947uTzixp.spec.ts",
+      "*.XTr7ZoiMJFCn.spec.ts",
+      "*.8BEbNqEMAN7b.spec.ts",
+      "*.Dg5m5Kk4SqS6.spec.ts",
+      "*.i6QKPZP4ksYX.spec.ts",
+      "*.D0CB7vNJR2XP.spec.ts",
+      "*.nVuCa2KLxyS5.spec.ts"
+    ]
+  },
+  {
+    "name": "src/content/tutorial",
+    "testMatch": [
+      "*.A4_ZCZcEm8F_.spec.ts",
+      "*.IRQNChbmL3E3.spec.ts",
+      "*.QmQim8hqN6qp.spec.ts",
+      "*.Hl-Aw_PZDSR8.spec.ts",
+      "*.3tnaEdxUYu_w.spec.ts",
+      "*.N879Cg8u4TGW.spec.ts",
+      "*.7GEaLngMfOgx.spec.ts",
+      "*.gOcaZuAl0cKu.spec.ts",
+      "*.o9Bm7PrciQAM.spec.ts",
+      "*.iHBLG4Y5HtDV.spec.ts",
+      "*.doGy-JRX7Bqh.spec.ts",
+      "*.BC6njMtk7eDq.spec.ts",
+      "*.QKfHWwyzhKMk.spec.ts"
+    ]
+  },
+  {
+    "name": "ssh",
+    "testMatch": [
+      "*.aHLfHNInw_Uv.spec.ts",
+      "*.PIuZ-rx6gNpD.spec.ts"
+    ]
+  },
+  {
+    "name": "staging",
+    "testMatch": [
+      "*.0iAUiVZvbfaV.spec.ts",
+      "*.Atf_xeIktyGW.spec.ts"
+    ]
+  },
+  {
+    "name": "storybook/chromatic",
+    "testMatch": [
+      "*.P3grj2PDpaJc.spec.ts",
+      "*.trA0Tf1B9jjB.spec.ts"
+    ]
+  },
+  {
+    "name": "todo",
+    "testMatch": [
+      "*.5Ialkc6nACSl.spec.ts",
+      "*.T2TjMmeXoldc.spec.ts",
+      "*.xlpI_ZEHQEJ8.spec.ts",
+      "*.cQ89s6PmVz9u.spec.ts",
+      "*.eB7-73N68E-U.spec.ts",
+      "*.oMd36CR_xi42.spec.ts",
+      "*.NmSEE28lSY2O.spec.ts",
+      "*.2PsMyk7syMx6.spec.ts",
+      "*.CVdkpbAJz-7Q.spec.ts",
+      "*.4O0y0wQA-PSg.spec.ts",
+      "*.jMqqKaB7qzv5.spec.ts",
+      "*.22x1UO1tRQOy.spec.ts",
+      "*.wv8hMi11uPdf.spec.ts",
+      "*.rNxoliu0ccsj.spec.ts",
+      "*.NHKTvax6c-2E.spec.ts"
+    ]
+  },
+  {
+    "name": "toolbar",
+    "testMatch": [
+      "*.yqVF6ZKKqC5Z.spec.ts",
+      "*.9u4Zn59h8mQS.spec.ts",
+      "*.1_z8ZFnd_gDG.spec.ts",
+      "*.1tGl1f-W-AAK.spec.ts",
+      "*.rm04p7p2dzW-.spec.ts",
+      "*.-4zasIHJVQ-3.spec.ts",
+      "*.avX0nsx7iDUC.spec.ts",
+      "*.iDBrzOL9QLIs.spec.ts",
+      "*.jkispJk2fCLS.spec.ts",
+      "*.3YmYmwTZ2MgH.spec.ts",
+      "*.xn3Jo7217vRs.spec.ts",
+      "*.JDafRq1FnEi5.spec.ts",
+      "*.pfanRlNqqRCW.spec.ts",
+      "*.qsuWVswjUB-1.spec.ts",
+      "*.823d5Ogs-0Iz.spec.ts",
+      "*.svM8bAi1TCXX.spec.ts",
+      "*.erd2n1-CbUqO.spec.ts",
+      "*.b7PI6-yVFSZl.spec.ts",
+      "*.FI7mRy73Py7I.spec.ts",
+      "*.2tnn8J7w6Bz1.spec.ts",
+      "*.5S2uuqcE27Df.spec.ts",
+      "*.cYVv6qph_zVW.spec.ts",
+      "*.i_bvCarxfiLc.spec.ts",
+      "*.dCfZyygg0YGF.spec.ts",
+      "*.1GdLCDoebCPy.spec.ts",
+      "*.IshajISigAIM.spec.ts",
+      "*.GeYlykBIaOv3.spec.ts",
+      "*.ex2dwTACQLuG.spec.ts",
+      "*.v0wM6Oi-hHgI.spec.ts",
+      "*.uD5qlYh2p7Zp.spec.ts",
+      "*.i7kB_rkHTNzN.spec.ts"
+    ]
+  }
+]

@@ -112,10 +112,9 @@ This repo contains a GitHub Action [workflow](.github/workflows/test-pr.yaml) fo
 
 For running the tests locally, you would need to execute the following commands -
 
-```
-    ./.github/actions/smoke-test/build.sh ${TEMPLATE-ID} 
-    ./.github/actions/smoke-test/test.sh ${TEMPLATE-ID} 
-```
+__NB__ this is best done via [`make`](./Makefile)
+
+[`./run.mjs`](./run.mjs)
 
 ### Updating Documentation
 

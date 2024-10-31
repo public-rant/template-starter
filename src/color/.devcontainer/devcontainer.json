@@ -4,13 +4,25 @@
 
 	// 👇 Features to add to the Dev Container. More info: https://containers.dev/implementors/features.
 	"features": {
-		"ghcr.io/devcontainers-extra/features/rclone": {}
+		"ghcr.io/devcontainers-extra/features/rclone": {},
+		"ghcr.io/devcontainers/features/node": {},
+		"ghcr.io/devcontainers/features/sshd:1": {
+        	"version": "latest"
+    	},
+		"ghcr.io/devcontainers/features/desktop-lite": {},
+		"ghcr.io/devcontainers/features/docker-in-docker": {}
 	},
 
 	// 👇 Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
 
-	"postCreateCommand": "echo '${templateOption:favorite}' > /tmp/color.txt"
+	// "postCreateCommand": "echo '${templateOption:favorite}' > /tmp/color.txt"
+	"postCreateCommand": "make install",
+	// "postStartCommand": {
+	// 	"storybook": "npm run storybook",
+	// 	"playwright": "npx playwright test --ui-port 5000"
+	// },
+	"shutdownAction": "stopContainer"
 
 	// 👇 Configure tool-specific properties.
 	// "customizations": {},
