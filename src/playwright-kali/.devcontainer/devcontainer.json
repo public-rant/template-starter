@@ -1,0 +1,11 @@
+{
+    "name": "Kali Linux Development",
+    "image": "kalilinux/kali-rolling",
+    "customizations": {
+        "vscode": {
+            "extensions": ["ms-python.python"]
+        }
+    },
+    "postCreateCommand": "apt-get update && apt-get install -y curl git python3 python3-pip sudo",
+    "remoteUser": "root"
+}
